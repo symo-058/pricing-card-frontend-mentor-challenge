@@ -152,5 +152,12 @@ ul {
   font-size: 0.8rem;
 }
 
+@media (max-width: 650px) {
+  #bottomright-section, #bottomleft-section, #card {
+    width: 100%;
+    height: auto;
+  }
+}
+
 
 
